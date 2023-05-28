@@ -46,5 +46,9 @@ Distributed under the MIT License. See [LICENSE](https://github.com/its-nihal-pa
 
 * **Patel Nihal** - *Python Developer* - [Nihal](https://github.com/its-nihal-patel)
 
+## Socials
+<a href="https://linkedin.com/in/nihal-patel-a33b6520a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihal-patel-a33b6520a" height="30" width="40" /></a>
+<a href="https://instagram.com/_its.nihal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_its.nihal" height="30" width="40" /></a>
+
 
 
