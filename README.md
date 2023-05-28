@@ -4,7 +4,9 @@
 ![filehive ss](https://github.com/its-nihal-patel/FileHive/assets/119946323/ad8cdc44-ef76-447e-95d6-00cabb5cbf23)
 # FileHive
 
-FileHive, A simple file manager GUI application which works on both windows & linux. The application boasts a sleek & intuitive GUI, presenting files and folders in a convenient grid layout. This organized display allows for quick access to files.
+FileHive, A simple file manager GUI application which works on both windows & linux. Fully coded in python using GUI library Tkinter.
+
+The application boasts a sleek & intuitive GUI, presenting files and folders in a convenient grid layout. This organized display allows for quick access to files.
 
 To enhance navigation, FileHive includes a sidebar with various options, enabling you to swiftly jump to specific directories and locations within file system.
 
