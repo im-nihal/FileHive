@@ -40,7 +40,7 @@ When browsing through folders, FileHive equips you with a toolbar featuring back
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/its-nihal-patel/FileHive/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/its-nihal-patel/FileHive/blob/main/LICENSE) for more information.
 
 ## Author
 
