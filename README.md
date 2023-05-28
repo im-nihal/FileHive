@@ -15,7 +15,7 @@ When browsing through folders, FileHive equips you with a toolbar featuring back
 ### Features:
 1. FileHive enables you to search for files by name. In the event of a single search result, FileHive automatically navigates you to the directory where the file is located. When multiple matches are found, a dialog box is displayed, presenting you with respective paths for each file, allowing you to choose the desired location (video given belwo).
 
-https://github.com/its-nihal-patel/FileHive/assets/119946323/c9c76545-b97d-4f84-89c8-087c3a1cb6ff
+![rename](https://github.com/its-nihal-patel/FileHive/assets/119946323/2d35887b-589c-45a6-95b2-67dd62d292d0)
 
 2. FileHive detects the operating system and select the appropriate application to open each file type. Whether it's documents, images, videos, or any other file format, FileHive ensures that user can seamlessly access files using the most suitable applications installed on user's system.
 
